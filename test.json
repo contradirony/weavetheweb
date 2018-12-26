@@ -4,7 +4,7 @@
    {  
          "type":"Feature",
          "properties":{  
-            "id":333,
+            "tempurature":6,
             "name":"Dublin"
          },
          "geometry":{  
@@ -17,7 +17,7 @@
       },{  
          "type":"Feature",
          "properties":{  
-            "id":347,
+            "tempurature":-1,
             "name":"Stockholm"
          },
          "geometry":{  
