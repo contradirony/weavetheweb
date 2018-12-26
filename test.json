@@ -4,7 +4,7 @@
    {  
          "type":"Feature",
          "properties":{  
-            "tempurature":6,
+            "coli":6,
             "name":"Dublin",
             "marker-color": "#55aa00"
          },
@@ -18,7 +18,7 @@
       },{  
          "type":"Feature",
          "properties":{  
-            "tempurature":-1,
+            "coli":-1,
             "name":"Stockholm",
             "marker-color": "#0000FF"
          },
