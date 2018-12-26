@@ -1,0 +1,32 @@
+{  
+   "type":"FeatureCollection",
+   "features":[
+   {  
+         "type":"Feature",
+         "properties":{  
+            "id":333,
+            "name":"Dublin"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               -6.250851540391068,
+               53.335006994584944
+            ]
+         }
+      },{  
+         "type":"Feature",
+         "properties":{  
+            "id":347,
+            "name":"Stockholm"
+         },
+         "geometry":{  
+            "type":"Point",
+            "coordinates":[  
+               18.095388874180912,
+               59.35270581286585
+            ]
+         }
+      }
+               ]
+}
