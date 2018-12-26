@@ -5,7 +5,8 @@
          "type":"Feature",
          "properties":{  
             "tempurature":6,
-            "name":"Dublin"
+            "name":"Dublin",
+            "marker-color": "#55aa00"
          },
          "geometry":{  
             "type":"Point",
@@ -18,7 +19,8 @@
          "type":"Feature",
          "properties":{  
             "tempurature":-1,
-            "name":"Stockholm"
+            "name":"Stockholm",
+            "marker-color": "#0000FF"
          },
          "geometry":{  
             "type":"Point",
